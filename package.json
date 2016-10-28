@@ -1,0 +1,24 @@
+{
+  "name": "training-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PonyLux/training-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PonyLux/training-typescript/issues"
+  },
+  "homepage": "https://github.com/PonyLux/training-typescript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "tslint": "^3.15.1",
+    "typescript": "^2.0.6"
+  }
+}
