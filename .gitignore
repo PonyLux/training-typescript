@@ -2,3 +2,5 @@ node_modules
 .idea
 bundle.js
 bundle.js.map
+src/**/*.js
+src/**/*.js.map
